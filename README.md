@@ -2,12 +2,12 @@ Animated Code Execution, powered by Manim (https://manim.community)
 
 This does not have a guaranteed stable API.
 
-This is not an official Manim project.
+This is not an official Manim project. It worked with Manim Community version 0.17.2, last I checked.
 
-See `sample_code.py` for a small example and sample_code.mp4 for the output
+See `sample_code.py` for a small example and ExampleScene.mp4 for the output
 
-See `connect_four.py` for a full example. The output will be on my YouTube
-channel (https://www.youtube.com/@KevinLubick) when I'm done editing it (hopefully Feb 2023).
+See `connect_four.py` for a full example. The [output is on my YouTube
+channel](https://www.youtube.com/watch?v=-aFtJt1_T3k).
 Bear in mind that I wrote `connect_four.py` to run *once*,
 but spent a bit more time on the code in `manim_ace` to be more reusable across projects.
 
